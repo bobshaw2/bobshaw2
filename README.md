@@ -3,6 +3,10 @@
 
 <p align="left"> <source src="[https://pin.it/1RyfsX4Lw](https://pin.it/5fhKPmHyi)" alt="bobshaw2" /> </p>
 
+<video width="320" height="240" controls>
+  <source src="https://pin.it/2SzrS5arE" type="video/mp4">
+  <source src="https://pin.it/2SzrS5arE" type="video/ogg">
+</video>
 <p align="left"> <a href="https://pin.it/5fhKPmHyi"><img src="https://github-profile-trophy.vercel.app/?username=bobshaw2" alt="bobshaw2" /></a> </p>
 
 - 📫 How to reach me **shawrajsekhar580@gmail.com**
