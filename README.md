@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend & LLM ENGINEER from India</h3>
 
 <p align="left"> <source src="[https://pin.it/1RyfsX4Lw](https://pin.it/5fhKPmHyi)" alt="bobshaw2" /> </p>
-
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=5348093304623785" height="719" width="345" frameborder="0" scrolling="no" ></iframe>
 <video width="320" height="240" controls>
   <source src="https://pin.it/2SzrS5arE" type="video/mp4">
   <source src="https://pin.it/2SzrS5arE" type="video/ogg">
