@@ -1,6 +1,17 @@
-<h1 align="center">Hi 👋, I'm Raj sekhar Shaw</h1>
-<h3 align="center">A passionate frontend & LLM ENGINEER from India</h3>
+<div align="center">
 
+<img width="1001" height="249" alt="Image" src="https://github.com/user-attachments/assets/901d2671-238e-4040-bfba-352d57d0a190" />
+
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=1500&pause=1000&color=black&center=true&vCenter=true&width=700&lines=Full+Stack+Architect;Scaling+Next+Gen+Billing+Engine;B.Tech+CSE+%40+;System+Status:+ONLINE." alt="Typing SVG" />
+  </a>
+  </br>
+
+  
+</div>
+
+</br>
 <p align="left"> <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0b64fe9f-f76d-4807-b554-89a02b45a262" alt="bobshaw2" /> </p>
 <iframe src="https://assets.pinterest.com/ext/embed.html?id=5348093304623785" height="719" width="345" frameborder="0" scrolling="no" ></iframe>
 <video width="320" height="240" controls>
