@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raj sekhar Shaw</h1>
 <h3 align="center">A passionate frontend & LLM ENGINEER from India</h3>
 
-<p align="left"> <source src="[https://pin.it/1RyfsX4Lw](https://pin.it/5fhKPmHyi)" alt="bobshaw" /> </p>
+<p align="left"> <source src="[https://pin.it/1RyfsX4Lw](https://pin.it/5fhKPmHyi)" alt="bobshaw2" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bobshaw2" alt="bobshaw2" /></a> </p>
+<p align="left"> <a href="https://pin.it/5fhKPmHyi"><img src="https://github-profile-trophy.vercel.app/?username=bobshaw2" alt="bobshaw2" /></a> </p>
 
 - 📫 How to reach me **shawrajsekhar580@gmail.com**
 
