@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raj sekhar Shaw</h1>
 <h3 align="center">A passionate frontend & LLM ENGINEER from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bobshaw2&label=Profile%20views&color=0e75b6&style=flat" alt="bobshaw2" /> </p>
+<p align="left"> <href="https://pin.it/1RyfsX4Lw" alt="bobshaw2" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bobshaw2" alt="bobshaw2" /></a> </p>
 
