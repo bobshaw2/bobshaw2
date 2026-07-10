@@ -30,15 +30,15 @@
 <!--gif image-->
 </br>
 <p align="left"> <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0b64fe9f-f76d-4807-b554-89a02b45a262" alt="bobshaw2" /> </p>
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=5348093304623785" height="719" width="345" frameborder="0" scrolling="no" ></iframe>
-<video width="320" height="240" controls>
-  <source src="https://pin.it/2SzrS5arE" type="video/mp4">
-  <source src="https://pin.it/2SzrS5arE" type="video/ogg">
-</video>
+
 
 </div>
 
+<!--about me-->
+**B.Tech CSE Student** at
 
+
+>*"Turning complex problems into simple, scalable solutions.Driven by curiosity, powered by logic, committed to continuous learning."*
 <p align="left"> <a href="https://pin.it/5fhKPmHyi"><img src="https://github-profile-trophy.vercel.app/?username=bobshaw2" alt="bobshaw2" /></a> </p>
 
 - 📫 How to reach me **shawrajsekhar580@gmail.com**
