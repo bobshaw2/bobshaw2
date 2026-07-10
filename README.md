@@ -6,25 +6,25 @@
 
 <!--moveing words-->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=1500&pause=1000&color=black&center=true&vCenter=true&width=700&lines=Full+Stack+Architect;Scaling+Next+Gen+Billing+Engine;B.Tech+CSE+%40+;System+Status:+ONLINE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=1500&pause=1000&color=black&center=true&vCenter=true&width=700&lines=Full+Stack+Architect;B.Tech+CSE+%40+;System+Status:+ONLINE" alt="Typing SVG" />
   </a>
   </br>
 
 <!--linkedin,github icons-->
   <a href="https://github.com/bobshaw2">
-  <img src="https://komarev.com/ghpvc/?username=bobshaw2&color=00aeff&style=flat-square&label=PROFILE+HITS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=bobshaw2&color=00aeff&style=plastic&label=PROFILE+HITS" alt="Profile Views"/>
 </a>
 
 <a href="https://github.com/bobshaw2">
-  <img src="https://img.shields.io/badge/GitHub-bobshaw2-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-bobshaw2-181717?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/contact-rajsekharshaw">
-  <img src="https://img.shields.io/badge/Network-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/Network-LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:bobshaw9966@gmail.com">
-  <img src="https://img.shields.io/badge/Comms-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Comms-Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 </br>
 <!--gif image-->
@@ -39,11 +39,16 @@
 
 
 >*"Turning complex problems into simple, scalable solutions.Driven by curiosity, powered by logic, committed to continuous learning."*
-<p align="left"> <a href="https://pin.it/5fhKPmHyi"><img src="https://github-profile-trophy.vercel.app/?username=bobshaw2" alt="bobshaw2" /></a> </p>
 
-- 📫 How to reach me **shawrajsekhar580@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
+- 📫 How to reach me : <a href="mailto:bobshaw9966@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Gmail" height=25/>
+</a>
+
+<h3 align="left">Connect with me:<a href="https://www.linkedin.com/in/contact-rajsekharshaw">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" height=25/>
+</a></h3>
 <p align="left">
 </p>
 
