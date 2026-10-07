@@ -2,7 +2,9 @@
 
 <div align="center">
 <!--logo-->
-<img width="1001" height="249" alt="Image" src="https://github.com/user-attachments/assets/901d2671-238e-4040-bfba-352d57d0a190" />
+<img width="4116" height="1024" alt="Gemini_Generated_Image_99c22r99c22r99c2" src="https://github.com/user-attachments/assets/f7538f3b-91de-4394-8cc5-25a3c55a27fe" />
+
+
 
 <!--moveing words-->
   <a href="https://git.io/typing-svg">
