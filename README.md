@@ -42,9 +42,7 @@
 >*"Turning complex problems into simple, scalable solutions.Driven by curiosity, powered by logic, committed to continuous learning."*
 </br>
 <div align="center">
-<h3 >Connect with me:<a href="https://www.linkedin.com/in/contact-rajsekharshaw">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" height=25/>
-</a></h3>
+
 
 
 <h3 >Languages and Tools:</h3>
@@ -53,7 +51,19 @@
 </a>    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"alt="c++" width="40" height="40"/>   
 </a>     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  </p>
+ <br/>
+ 
+<!-- Portfolio Image Hyperlink -->
+  <h3>🖥️ Check Out My Personal Website</h3>
+  <a href="https://rajsekharshaw.lovable.app">
+    <img width="3168" height="1344" alt="Gemini_Generated_Image_r1eunqr1eunqr1eu" src="https://github.com/user-attachments/assets/d6703170-a4a7-4f19-89a6-04e8b745ce56" />
 
+  </a>
+  <br/><br/><br/>
+
+  <h3 >Connect with me:<a href="https://www.linkedin.com/in/contact-rajsekharshaw">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" height=25/>
+</a></h3>
 
 </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bobshaw2&"" alt="bobshaw2" /></p>
